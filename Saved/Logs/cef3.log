@@ -4,3 +4,4 @@
 [32376:36412:0718/124335.884:ERROR:device_event_log_impl.cc(196)] [12:43:35.565] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
 [32376:36412:0718/124357.051:ERROR:device_event_log_impl.cc(196)] [12:43:56.805] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
 [27240:22552:0718/124358.073:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-84390699E9A364A9E154FE238C8B98FB will be ignored
+[32376:36412:0718/131937.089:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

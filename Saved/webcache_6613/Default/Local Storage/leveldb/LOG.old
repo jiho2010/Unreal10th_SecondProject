@@ -1,3 +1,2 @@
-2026/07/16-08:40:31.408 154c Reusing MANIFEST C:\ChoeJiho\UnrealProjects\Unreal10th_SecondProject\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/07/16-08:40:31.420 154c Recovering log #4
-2026/07/16-08:40:31.423 154c Reusing old log C:\ChoeJiho\UnrealProjects\Unreal10th_SecondProject\Saved\webcache_6613\Default\Local Storage\leveldb/000004.log 
+2026/07/17-15:05:43.100 5994 Creating DB C:\JihoSaveFiles\UnrealProjects\Unreal10th_SecondProject\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
+2026/07/17-15:05:43.125 5994 Reusing MANIFEST C:\JihoSaveFiles\UnrealProjects\Unreal10th_SecondProject\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
