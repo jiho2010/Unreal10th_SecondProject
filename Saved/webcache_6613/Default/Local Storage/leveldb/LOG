@@ -1,3 +1,6 @@
-2026/07/19-16:05:48.189 2eb0 Reusing MANIFEST C:\JihoSaveFiles\UnrealProjects\Unreal10th_SecondProject\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/07/19-16:05:48.196 2eb0 Recovering log #3
-2026/07/19-16:05:48.199 2eb0 Reusing old log C:\JihoSaveFiles\UnrealProjects\Unreal10th_SecondProject\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/07/22-17:31:24.722 55b8 Reusing MANIFEST C:\ChoeJiho\UnrealProjects\Unreal10th_SecondProject\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/07/22-17:31:24.727 55b8 Recovering log #4
+2026/07/22-17:31:24.730 55b8 Reusing old log C:\ChoeJiho\UnrealProjects\Unreal10th_SecondProject\Saved\webcache_6613\Default\Local Storage\leveldb/000004.log 
+2026/07/22-17:39:58.618 3d40 Level-0 table #6: started
+2026/07/22-17:39:58.624 3d40 Level-0 table #6: 67377 bytes OK
+2026/07/22-17:39:58.628 3d40 Delete type=0 #4
